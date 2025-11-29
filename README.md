@@ -3,7 +3,7 @@
 
 This project showcases a complete **End-to-End Telco Churn Analysis & Prediction Pipeline** — from raw messy data all the way to an interactive dashboard in Tableau.
 
-[**→ View Live Tableau Dashboard**](https://public.tableau.com/app/profile/chinyere.obi8867/viz/ChurnAnalysis_17302938038440/ChurnAnalysis)
+[**→ View Live Tableau Dashboard**](https://public.tableau.com/app/profile/chinyere.obi8867/viz/ChurnAnalysis_17302938038440/ChurnAnalysis)                  
 
 ---
 
@@ -181,9 +181,11 @@ Model optimized for **RECALL** to maximize saved customers.
 ```
 ---
 
-# 🏁 Final Thoughts  
+## 🏁 Final Thoughts  
 This project represents a full analytics lifecycle — blending **data cleaning**, **feature engineering**, **predictive modeling**, and **business-focused insights** into one strategic solution.
 
 It directly supports **retention**, **customer success**, and **revenue protection** initiatives.
+
+[**→ View Python Code**](https://github.com/Mayreeobi/End-to-End-Churn-Analysis/blob/main/Churn%20Predictive%20Analysis.ipynb)
 
 
