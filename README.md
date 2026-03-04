@@ -170,10 +170,10 @@ df['risk_level'] = pd.cut(
 
 ### 6. Tableau Dashboard
 
-**Page 1: Churn Analysis** ![Churn Analysis](https://github.com/mayreeobi/End-to-End-Churn-Analysis/blob/main/Churn_Analysis.png)
+**Page 1: Churn Analysis** ![Churn Analysis](https://github.com/Mayreeobi/End-to-End-Churn-Analysis/blob/main/Churn%20Analysis.png)
 - Segment patterns across contract type, tenure, payment method, internet service, and monthly charges.
 
-**Page 2: Predictive Analysis** ![Predictive Analysis](https://github.com/mayreeobi/End-to-End-Churn-Analysi/blob/main/Predictive_Analysis.png)
+**Page 2: Predictive Analysis** ![Predictive Analysis](https://github.com/Mayreeobi/End-to-End-Churn-Analysis/blob/main/Predictive%20Analysis.png)
 - Feature importance, churn risk segmentation, revenue at risk, confusion matrix, and top 10 highest-risk customers ready for immediate outreach.
 
 [View Live Dashboard](https://public.tableau.com/views/ChurnAnalysis_17302938038440/PredictiveAnalysis)
